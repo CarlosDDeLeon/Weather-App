@@ -23,3 +23,10 @@ We used extensions and structs to modelate the data for every city with weather 
 
 
 ![Screen Shot 2022-07-10 at 7 40 00 PM](https://user-images.githubusercontent.com/89562671/178179468-7e89e374-bf0b-41ac-8724-5bd410e7f58d.png)
+
+
+Widgets added.
+
+
+
+![Screen Shot 2022-07-10 at 7 37 55 PM](https://user-images.githubusercontent.com/89562671/178180020-6d7912b9-161c-451d-8c39-31ac330acda7.png)
